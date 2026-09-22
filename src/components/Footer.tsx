@@ -9,7 +9,7 @@ const Footer = () => {
           {/* Company Info */}
           <div>
             <div className="text-2xl font-bold mb-4">
-              <span className="text-white">SGC</span>
+              <span className="text-white">Sam</span>
               <span className="text-accent"> Group</span>
             </div>
             <p className="text-primary-foreground/80 text-sm leading-relaxed">
